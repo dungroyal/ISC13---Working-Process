@@ -26,3 +26,7 @@ Dự án: Website thương mại điện tử bán Laptop
 + SDT: 0338017738
 + https://www.facebook.com/nguyentrongnghia.itnlu/
 >>>>>>> 355215b1dc1d18fdedc5b4f663bf49a599deca17
+4. Trần Hán Minh
++ Email: nguyenlydx@gmail.com
++ SDT:0973108427
++https://www.facebook.com/profile.php?id=100028587352290
