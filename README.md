@@ -14,3 +14,8 @@ Dự án: Website thương mại điện tử bán Laptop
 + Email: thnhlngtrung@gmail.com
 + SDT: 0363998832
 + https://www.facebook.com/thnhlngtrung/
+
+3. Nguyễn Trọng Nghĩa
++ Email: nguyentrongnghia.itnlu@gmail.com
++ SDT: 0338017738
++ https://www.facebook.com/nguyentrongnghia.itnlu/
