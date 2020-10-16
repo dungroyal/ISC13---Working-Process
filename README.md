@@ -30,3 +30,7 @@ Dự án: Website thương mại điện tử bán Laptop
 + Email: nguyenlydx@gmail.com
 + SDT:0973108427
 +https://www.facebook.com/profile.php?id=100028587352290
+5. Nguyễn Quốc Thịnh
++ Email: quocthinhadc102@gmail.com
++ SĐT: 0348948537
++ facebook.com/quocthinhadc
